@@ -1,4 +1,4 @@
-# Task Tracker Command Line Interface (Java) - https://github.com/iamsatya8/task_tracker_command_line_interface_application
+# Task Tracker Command Line Interface (Java)
 
 Task Tracker is a simple Command Line Interface (CLI) application to track and manage your tasks.  
 It allows you to add, update, delete, and monitor task status using a JSON file.
